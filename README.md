@@ -8,10 +8,12 @@ Currently, the `monitoring_resources` library includes the following features:
 
 - ✅ **CPU Monitoring**: Retrieve real-time information about CPU usage, core count, and frequency.
 - ❌ **Memory Monitoring**: Monitor the usage of system memory (to be implemented).
-- ✅ **Disk Monitoring**: Track the usage and activity of disk space.
+- ✅ **Device Monitoring**: Retrieve information about connected devices and monitor disk usage statistics.
 - ❌ **Network Monitoring**: Check the bandwidth and activity of the network (to be implemented).
 - ❌ **Process Monitoring**: Analyze running processes (to be implemented).
+- ❌ **Disk Monitor**: Track detailed disk usage and activity (to be implemented).
 - ❌ **Temperature Monitoring**: Retrieve hardware temperature data (to be implemented).
+- ❌ **Power Monitoring**: Monitor power consumption and battery status (to be implemented).
 
 ## Dependencies
 
